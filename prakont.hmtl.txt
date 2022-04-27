@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>zadanie</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="pra.css">
+</head>
+<body>
+
+<header>
+<div id="fbi"><a href="file:///C:/Users/user/Desktop/praktyki/praktyki.html"><img src="LOGO.png" alt="logo1" width="140" height="140"></a></div>
+</header>
+<footer>
+
+</footer>
+</body>
+</html>
